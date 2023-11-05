@@ -1,7 +1,17 @@
 <script setup></script>
 
 <template>
-  <p>Hello world, this is a component!</p>
-</template>
+  <h1>Kennisclips</h1>
 
-<style scoped></style>
+  <p>Hello world, this is a component!</p>
+
+
+  
+
+
+</template>
+<style scoped>
+
+</style>
+
+
